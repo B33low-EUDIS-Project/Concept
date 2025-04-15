@@ -1,4 +1,4 @@
-# 🛰️ (Name To be found) – Augmented Object Mapping
+# 🛰️ VIGILnet
 
 > **Detect. Align. Map.**  
 > A real-time collaborative mapping system using smartphones, sensors and video streams to identify and localize objects of interest (UAV).
