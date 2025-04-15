@@ -92,6 +92,7 @@ Use cases: battleground intelligence, UAV scouting, RF-less plastic UAV scouting
 
 Actuals skills needed and available:
 - System design [x]
+- Devops [x]
 - Backend [x]
 - React [~]
 - Math & Sensor fusion [~]
