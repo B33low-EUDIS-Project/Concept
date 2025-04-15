@@ -1,7 +1,7 @@
 # 🛰️ JUCO
 
 > **JUCO is short for Juste Un Coup d’Œil – French for just a quick glance.**  
-> A real-time collaborative mapping system using smartphones, sensors and video streams to identify and localize objects of interest (UAV).
+> A real-time collaborative mapping system using smartphones, sensors and video streams to identify and localize UAV.
 
 ---
 
