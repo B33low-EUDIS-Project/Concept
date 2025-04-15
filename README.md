@@ -62,9 +62,9 @@ Use cases: battleground intelligence, UAV scouting, RF-less plastic UAV scouting
 ```
 
 
-*(➡️ Tu peux ajouter ici un joli schéma SVG ou image)*
+<!-- *(➡️ Tu peux ajouter ici un joli schéma SVG ou image)* -->
 
----
+<!-- ---
 
 ## 🧩 Modules
 
@@ -74,7 +74,7 @@ Use cases: battleground intelligence, UAV scouting, RF-less plastic UAV scouting
 | 📤 Data Sender | WebSocket / HTTP | You | 🟢 Boilerplate ready |
 | 🧠 Data Fusion | Python or TS | You | ⚪ To define |
 | 🗺️ Map View | Leaflet / Mapbox | TBD | ⚪ Not started |
-| 🎯 Mock Detection | ML / Mocking | Pote ML ? | ⚪ Optional |
+| 🎯 Mock Detection | ML / Mocking | Pote ML ? | ⚪ Optional | -->
 
 ---
 
@@ -91,12 +91,12 @@ Use cases: battleground intelligence, UAV scouting, RF-less plastic UAV scouting
 ## 👥 Team
 
 Actuals skills needed and available:
-    - System design [x]
-    - Backend [x]
-    - React [~]
-    - Math & Sensor fusion [~]
-    - Mobile (Website or Native) sensor data gathering [~]
-    - UX []
+- System design [x]
+- Backend [x]
+- React [~]
+- Math & Sensor fusion [~]
+- Mobile (Website or Native) sensor data gathering [~]
+- UX [ ]
 
 
 ---
