@@ -1,17 +1,17 @@
-# 🛰️ JUCO
+# 🛰️ FOLDDOWN
+>Distributed detection and probabilistic mapping of aerial objects. Local signals collapse into a shared, coherent spatial map.
 
-> **JUCO is short for Juste Un Coup d’Œil – French for just a quick glance.**  
-> A real-time collaborative mapping system using smartphones, sensors and video streams to identify and localize UAV.
+![](./ressources/folddown.png)
 
 ---
 
 ## 🧠 Idea Summary
 
-This project is inspired by a video recently realised by [ConsistentlyInconsistentyt](https://www.youtube.com/watch?v=m-b51C82-UE&pp=0gcJCX4JAYcqIYzv). The video show a proof of ocncept how two camera with known relative position + angles and basic image processign allow to detect very small object (from the size of a pixel) with good confidence.
+This project is inspired by a video recently realised by [ConsistentlyInconsistentyt](https://www.youtube.com/watch?v=m-b51C82-UE&pp=0gcJCX4JAYcqIYzv). The video show a proof of concept how two camera with known relative position + angles and basic image processing allow to detect very small object (from the size of a pixel) with good confidence.
 
 The added value would be:
 - Allow N sensor devices to gather the data without prior information about relative position/angles
-- Allow sensor devices to disconenct/reconnect
+- Allow sensor devices to disconnect/reconnect
 - Allow M observator devices to see data in real time.
 
 In order to do so:
